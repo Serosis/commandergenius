@@ -23,3 +23,7 @@
 /project/app/build.gradle
 /project/app/.gradle
 /project/app/build
+
+project/jni/application/megamod/src
+
+project/jni/application/megamod/UQM-MegaMod
