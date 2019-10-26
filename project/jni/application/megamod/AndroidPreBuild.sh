@@ -11,6 +11,6 @@ else
 		[ -e megamod ] || git clone --depth=1 https://github.com/Serosis/UQM-MegaMod.git || exit 1
 	fi
 	ln -s UQM-MegaMod/src src
-	cp UQM-MegaMod/config_unix.h src
+	cp config_unix.h src
 	touch src/patched.successfully
 fi
